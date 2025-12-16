@@ -7,7 +7,7 @@ I am using data to better understand how ecosystems work and to support informed
 * **Standardization & Harmonization:** Developing standards for flux processing and post-processing in the peatland community.
 * **Data Fusion:** Integrating meteorological and remote sensing data to enhance flux datasets.
 * **Climate Impact Assessment:** Utilizing Radiative Forcing Modeling for a deep understanding of ecosystem climate effects.
-* **Time Series Analysis:** Investigating ecosystem-atmosphere dynamics and emission patterns through time series decomposition and analysis.
+* **Time Series Analysis:** Investigating ecosystem-atmosphere dynamics and emission patterns through time series decomposition.
 * **Phenocam Analysis:** Extracting phenological signals from RGB image archives to track ecosystem seasonality.
 * **Machine Learning:** Applying Random Forests and Neural Networks for flux gap-filling and upscaling.
 
