@@ -1,4 +1,5 @@
 ## Hi there 👋
+Using data to better understand our ecosystems and to make good decisions inland use and climate policy
 I am a **Data Scientist** focused on understanding **ecosystem-atmosphere interactions**. 
 My work centers on the quantification and modeling of **greenhouse gas fluxes** to mitigate climate change.
 My current focus is harmonizing **Eddy Covariance processing and post-processing pipelines** within the peatland research community to ensure data intercomparability and reproducibility.
